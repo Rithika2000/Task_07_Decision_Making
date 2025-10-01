@@ -42,24 +42,24 @@ Generation timestamp: September 28, 2025, 13:45 UTC
 Raw output archived in Appendix A
 
 c. Uncertainty & Confidence
-  Aggregate relationship (shots→goals): Very high confidence; removing a few top scorers does not materially change the correlation’s strength.
-  Player-level leaders (Muchnick goals; Ward assists/total): Moderate-to-high confidence; rankings remain consistent when normalized by games played.
-  Small-sample flags: Adamson’s per-game rates are promising but provisional (3 GP).
-  Perfect rates: Rich 100% SH% and Peters 100% SOG% indicate excellence but, without attempt counts, carry wide uncertainty bands. Treat as signals to investigate, not conclusions to operationalize at scale without further data.
+- Aggregate relationship (shots→goals): Very high confidence; removing a few top scorers does not materially change the correlation’s strength.
+- Player-level leaders (Muchnick goals; Ward assists/total): Moderate-to-high confidence; rankings remain consistent when normalized by games played.
+- Small-sample flags: Adamson’s per-game rates are promising but provisional (3 GP).
+- Perfect rates: Rich 100% SH% and Peters 100% SOG% indicate excellence but, without attempt counts, carry wide uncertainty bands. Treat as signals to investigate, not conclusions to operationalize at scale without further data.
 ## 4. Findings & Analysis
 a. Sanity Checks & Domain Validation
-  Missingness/outliers: Non-player summary lines were excluded; extreme percentages were inspected to ensure they stem from legitimate small-denominator scenarios rather than data entry errors.
-  Leakage: No outcome leakage (e.g., using post-hoc information to predict outcomes) was found.
-  Domain sense-check: Coaches should expect a strong link between volume and output—our data confirms this—but efficiency and possession wins separate good from great.
+- Missingness/outliers: Non-player summary lines were excluded; extreme percentages were inspected to ensure they stem from legitimate small-denominator scenarios rather than data entry errors.
+- Leakage: No outcome leakage (e.g., using post-hoc information to predict outcomes) was found.
+- Domain sense-check: Coaches should expect a strong link between volume and output—our data confirms this—but efficiency and possession wins separate good from great.
 b. Bias & Fairness Considerations
-  Starter vs. non-starter bias: Where possible, we compared normalized (per-game) performance to avoid automatically favoring starters due to minutes.
-  Volume bias: High-volume shooters look great in totals; we pair volume with efficiency (e.g., SH%, SOG%, contributions per game) to avoid rewarding low-quality volume.
-  Transparency to athletes: If trials or role tweaks are run, communicate criteria up front (what will be measured; thresholds for success) to protect trust and team culture.
-  No single-metric decisions: Personnel or scholarship decisions should not hinge on a solitary stat or LLM narrative.
+- Starter vs. non-starter bias: Where possible, we compared normalized (per-game) performance to avoid automatically favoring starters due to minutes.
+- Volume bias: High-volume shooters look great in totals; we pair volume with efficiency (e.g., SH%, SOG%, contributions per game) to avoid rewarding low-quality volume.
+- Transparency to athletes: If trials or role tweaks are run, communicate criteria up front (what will be measured; thresholds for success) to protect trust and team culture.
+- No single-metric decisions: Personnel or scholarship decisions should not hinge on a solitary stat or LLM narrative.
 c. Robustness & Sensitivity
-  Remove top scorers: The shots→goals relationship remains very strong; Ward’s creation leadership and Benoit/Rode possession/defense edges persist.
-  Exclude very small GP (e.g., <5): Adamson’s per-game superiority attenuates, which is expected; hence we propose a trial rather than immediate role changes.
-  Normalize by GP: Rankings for Ward (creation), Muchnick (finishing), Benoit/Rode (possession/defense) remain stable.
+- Remove top scorers: The shots→goals relationship remains very strong; Ward’s creation leadership and Benoit/Rode possession/defense edges persist.
+- Exclude very small GP (e.g., <5): Adamson’s per-game superiority attenuates, which is expected; hence we propose a trial rather than immediate role changes.
+- Normalize by GP: Rankings for Ward (creation), Muchnick (finishing), Benoit/Rode (possession/defense) remain stable.
 d. Uncertainty & Limitations
 LLM-generated analysis.
 Overall certainty (high): Shot volume is strongly associated with goals (r ≈ 0.99). This holds under simple sensitivity checks and supports efforts to increase high-quality shot creation.
@@ -72,11 +72,11 @@ Path to higher confidence: Use controlled minutes trials and shot-selection/keep
 
 ## 5. Tiered Recommendations
 ### A. Operational — Low Risk (implement immediately)
-  Ward-centric creation packages
+- Ward-centric creation packages
 Action: Install 2–3 quick-hitter set plays each half with Ward as the primary distributor (e.g., wing sweep → slip cut; X-feed to crease).
 Rationale: Ward’s sustained assist volume and total contribution justify structured chances that leverage her vision.
 Ethics: No disadvantage to individuals; transparent tactical tweak.
-  Muchnick in high-yield finishing zones
+- Muchnick in high-yield finishing zones
 Action: Increase her touches in the spots where she historically converts best; add one late-clock option paired with Ward.
 Rationale: A proven finisher benefits most when fed in preferred lanes/angles.
 Ethics: Role clarity; performance-based.
