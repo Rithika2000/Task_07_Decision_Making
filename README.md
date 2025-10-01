@@ -1,4 +1,4 @@
-
+## Research Task 7: Ethical Implications of Decision Making
 
 Purpose: Convert prior LLM narrative and analytics into actionable, risk-tiered recommendations for coaches/admins, with uncertainty, ethics, and full reproducibility documented.
 
