@@ -98,68 +98,102 @@ LLM-generated analysis.
 
 - Ward-centric creation packages
   
-Action: Install 2–3 quick-hitter set plays each half with Ward as the primary distributor (e.g., wing sweep → slip cut; X-feed to crease).
-Rationale: Ward’s sustained assist volume and total contribution justify structured chances that leverage her vision.
-Ethics: No disadvantage to individuals; transparent tactical tweak.
+1) Action: Install 2–3 quick-hitter set plays each half with Ward as the primary distributor (e.g., wing sweep → slip cut; X-feed to crease).
+2) Rationale: Ward’s sustained assist volume and total contribution justify structured chances that leverage her vision.
+3) Ethics: No disadvantage to individuals; transparent tactical tweak.
 
 - Muchnick in high-yield finishing zones
   
-Action: Increase her touches in the spots where she historically converts best; add one late-clock option paired with Ward.
-Rationale: A proven finisher benefits most when fed in preferred lanes/angles.
-Ethics: Role clarity; performance-based.
+1) Action: Increase her touches in the spots where she historically converts best; add one late-clock option paired with Ward.
+2) Rationale: A proven finisher benefits most when fed in preferred lanes/angles.
+3) Ethics: Role clarity; performance-based.
 
 ### B. Investigatory — Medium Risk (test, measure, decide)
 
 - Controlled minutes trial for Adamson
-Action: Two-game scripted shifts; preannounce evaluation criteria; no immediate demotion of others.
-Rationale: Per-game outputs are elite but from 3 GP—trial confirms or revises the signal.
-Decision rule (example): Maintain or expand role only if the trial sustains strong contributions per game and reasonable turnover control.
-Shot-selection audit (video + situational context)
-Action: Review shot origin, pressure, and keeper quality; confirm whether high SH% stems from superior selection vs. soft opposition.
-Rationale: Prevent overfitting to inflated efficiency.
+  
+1) Action: Two-game scripted shifts; preannounce evaluation criteria; no immediate demotion of others.
+2) Rationale: Per-game outputs are elite but from 3 GP—trial confirms or revises the signal.
+3) Decision rule (example): Maintain or expand role only if the trial sustains strong contributions per game and reasonable turnover control.
+   
+- Shot-selection audit (video + situational context)
+  
+1) Action: Review shot origin, pressure, and keeper quality; confirm whether high SH% stems from superior selection vs. soft opposition.
+2) Rationale: Prevent overfitting to inflated efficiency.
+   
 ### C. High-Stakes — Requires Human/HR/Legal Review
-Major role changes or contract/scholarship decisions
-Action: Any decision with lasting consequences requires a multi-factor review (coach panel, performance staff, compliance).
-Rationale: Avoid over-reliance on a dataset snapshot or LLM narrative; protect athlete welfare and institutional integrity.
+
+- Major role changes or contract/scholarship decisions
+  
+1) Action: Any decision with lasting consequences requires a multi-factor review (coach panel, performance staff, compliance).
+2) Rationale: Avoid over-reliance on a dataset snapshot or LLM narrative; protect athlete welfare and institutional integrity.
+   
 ## 7. Ethical & Legal Considerations (Explicit)
-Transparency: All AI-generated text/video used for communication is clearly labeled; decision memos separate AI narrative from human-verified analysis.
-Player dignity & fairness: Trials use pre-declared, performance-relevant criteria; feedback is shared constructively; athletes may ask questions about the metrics used.
-Privacy & IP: Only public athletic performance data is used; no academic/medical records; stock or licensed visuals only.
-Non-maleficence: No recommendation is intended to punish; the focus is on team improvement and individual development.
+
+1) Transparency: All AI-generated text/video used for communication is clearly labeled; decision memos separate AI narrative from human-verified analysis.
+   
+2) Player dignity & fairness: Trials use pre-declared, performance-relevant criteria; feedback is shared constructively; athletes may ask questions about the metrics used.
+   
+3) Privacy & IP: Only public athletic performance data is used; no academic/medical records; stock or licensed visuals only.
+   
+4) Non-maleficence: No recommendation is intended to punish; the focus is on team improvement and individual development.
+   
 ## 8. Next Steps & Validation Plan
-This week: Implement low-risk operational changes (Ward sets, Muchnick zones, GB/CT drill blocks); brief the team on purpose and metrics.
-Next 2 games: Run Adamson’s controlled minutes trial with pre-announced evaluation criteria; begin the shot-selection audit.
-After 2–3 games: Review trial results and audit findings; decide on any incremental role changes; communicate rationale to the team.
-Ongoing: Keep a simple change log (what we tried, what happened, what we kept). Update coaches/AD with short summaries and ensure AI media remains properly labeled.
+
+1) This week: Implement low-risk operational changes (Ward sets, Muchnick zones, GB/CT drill blocks); brief the team on purpose and metrics.
+
+2) Next 2 games: Run Adamson’s controlled minutes trial with pre-announced evaluation criteria; begin the shot-selection audit.
+
+3) After 2–3 games: Review trial results and audit findings; decide on any incremental role changes; communicate rationale to the team.
+
+4) Ongoing: Keep a simple change log (what we tried, what happened, what we kept). Update coaches/AD with short summaries and ensure AI media remains properly labeled.
+   
 ## 9. LLM-Generated Content Disclosure
 AI-Generated Content Notice: Portions of the initial analysis were generated using with ChatGPT (GPT-4o) prompts documented in Appendix A.
 
-Appendices
-Appendix A: Raw LLM Outputs
+## Appendices
+
+### Appendix A: Raw LLM Outputs
+
 Prompt #1 - Initial Analysis Request Model: ChatGPT (GPT-4o) | Timestamp: 2025-09-28 13:43:15 UTC
+
 Write a concise “Uncertainty & Limitations” section (120–180 words) for a stakeholder report on Syracuse Women’s Lacrosse (32-player season dataset with G, A, SH, SH%, SOG%, GB, CT, DC, Fouls, GP–GS).
+
 Must include:
 • High confidence in shots→goals relationship (r ≈ 0.99).
 • Moderate–high confidence in leaders: Emma Ward (46 A; 76 G+A), Emma Muchnick (34 G), Benoit (34 GB), Rode (GB+CT+DC = 76).
 • Provisional findings where samples are small: Olivia Adamson (10 G, 6 A in 3 GP), perfect rates (Mackenzie Rich 100% SH%, Bri Peters 100% SOG%).
 • Note data gaps (no minutes/opponent strength/shot location detail).
 • Plain language; no new numbers; label the block: “LLM-generated analysis.”
+
 End with one sentence on how upcoming trials/audits will increase confidence.
 
 Raw Output:
-LLM-generated analysis.
+
+### LLM-generated analysis.
+
 Overall certainty: We have high confidence that shot volume strongly predicts goals (r ≈ 0.99); this pattern remains stable under simple sensitivity checks and supports strategies that increase quality shot creation.
+
 Leaders (moderate–high confidence): Evidence consistently supports Emma Ward as primary creator (46 A; 76 G+A) and Emma Muchnick as top finisher (34 G). Kaci Benoit (34 GB) and Meghan Rode (GB+CT+DC = 76) reliably anchor possession/disruption.
+
 Small-sample caution (provisional): Olivia Adamson’s per-game impact (10 G, 6 A across 3 GP) is promising but based on limited exposure; treat as a hypothesis to validate, not a guaranteed effect.
+
 Perfect-rate caveats: Mackenzie Rich (100% SH%) and Bri Peters (100% SOG%) show excellent efficiency, but likely on few attempts; interpret carefully until sample sizes grow.
+
 Data gaps: Missing minutes played, opponent strength, and shot-location context restrict deeper causal claims and role optimization.
+
 Path to higher confidence: Pre-planned controlled minutes trials and shot-selection/keeper-adjusted audits will provide additional evidence to confirm or refine these conclusions.
 
 ### Appendix B: Human Edits Documentation
+
 ## What I changed (brief, human edits)
 
 Tone/causality: Swapped “predicts” → “is strongly associated with” to avoid implying causation.
+
 Clarity: Tightened phrasing; removed repeated “excellent/strongly” modifiers.
+
 Consistency: Used a single confidence taxonomy (high / moderate–high / provisional).
+
 Readability: Shortened bullets, moved caveats up front, and standardized metric parentheticals.
+
 Action link: Made the last bullet explicitly connect to the validation plan.
