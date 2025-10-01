@@ -4,19 +4,32 @@ Purpose: Convert prior LLM narrative and analytics into actionable, risk-tiered 
 
 Recommended Actions:
 
-LOW RISK: Increase touches for Emma Ward (46 A, 76 total contributions) and monitor Olivia Adamson's development (5.33 contributions/game in limited play)
-LOW RISK: Leverage Meghan Rode's defensive versatility (76 combined GB+CT+DC) for strategic matchups
-MEDIUM RISK: Investigate shooting efficiency patterns for Mackenzie Rich and Bri Peters (both 100% rates, sample size unknown)
-MEDIUM RISK: Test Emma Muchnick (34 G leader) in expanded offensive schemes given strong shots-to-goals correlation (r≈0.99)
-HIGH RISK: Any roster or scholarship decisions require multi-metric evaluation beyond single-stat performance
+LOW RISK: 
+
+- Increase touches for Emma Ward (46 A, 76 total contributions) and monitor Olivia Adamson's development (5.33 contributions/game in limited play)
+
+- Leverage Meghan Rode's defensive versatility (76 combined GB+CT+DC) for strategic matchups
+  
+MEDIUM RISK: 
+
+- Investigate shooting efficiency patterns for Mackenzie Rich and Bri Peters (both 100% rates, sample size unknown)
+  
+- Test Emma Muchnick (34 G leader) in expanded offensive schemes given strong shots-to-goals correlation (r≈0.99)
+  
+HIGH RISK: 
+
+- Any roster or scholarship decisions require multi-metric evaluation beyond single-stat performance
+  
 Overall Uncertainty: Moderate confidence in findings due to 32-player dataset with some small-sample individual metrics and perfect percentages requiring attempt-count verification.
 
 1) Stakeholder & Decision Context
+   
 Audience: Head Coach, Position Coaches, Performance Staff, Athletic Director.
 Decision to make: What near-term tactical adjustments and medium-term experiments will most improve scoring efficiency and possession without creating unintended ethical or operational risks.
 What’s at stake: Medium risk. Recommendations can affect playing time, competitive outcomes, and athlete morale; therefore, actions must be transparent, fair, and reversible.
 
-2) Data Provenance & Scope (What we’re basing decisions on)
+3) Data Provenance & Scope (What we’re basing decisions on)
+   
 - Dataset: 32 players; season counts and rates for Goals (G), Assists (A), Shots (SH), Shooting % (SH%), Shots-on-Goal % (SOG%), Ground Balls (GB), Caused Turnovers (CT), Draw Controls (DC), Fouls, and GP–GS (Games Played–Games Started).
 - Narrative base: The Task 6 one-minute “reporter stand-up” video summarized the same dataset; language was cross-checked against the “2025 Syracuse University Lacrosse Statistics” document.
 - Known limitations: No minute-by-minute usage; no opponent strength or shot location coordinates; some standout values arise from small samples (e.g., 3 GP).
