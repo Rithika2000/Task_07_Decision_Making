@@ -48,13 +48,14 @@ What’s at stake: Medium risk. Recommendations can affect playing time, competi
 ### b. LLM Analysis Process
 - Write a concise “Uncertainty & Limitations” section for a stakeholder report on Syracuse Women’s Lacrosse (32-player season dataset with G, A, SH, SH%, SOG%, GB, CT, DC, Fouls, GP–GS).
 
-Must include:
+- Must include:
 • High confidence in shots→goals relationship (r ≈ 0.99).
 • Moderate–high confidence in leaders: Emma Ward (46 A; 76 G+A), Emma Muchnick (34 G), Benoit (34 GB), Rode (GB+CT+DC = 76).
 • Provisional findings where samples are small: Olivia Adamson (10 G, 6 A in 3 GP), perfect rates (Mackenzie Rich 100% SH%, Bri Peters 100% SOG%).
 • Note data gaps (no minutes/opponent strength/shot location detail).
 • Plain language; no new numbers; label the block: “LLM-generated analysis.”
-End with one sentence on how upcoming trials/audits will increase confidence.
+
+- End with one sentence on how upcoming trials/audits will increase confidence.
 
 **- LLM Output Processing:**
 
