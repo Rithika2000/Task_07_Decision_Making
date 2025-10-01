@@ -1,34 +1,34 @@
 # Research Task 7: Ethical Implications of Decision Making
 
-Purpose: Convert prior LLM narrative and analytics into actionable, risk-tiered recommendations for coaches/admins, with uncertainty, ethics, and full reproducibility documented.
+**Purpose:** Convert prior LLM narrative and analytics into actionable, risk-tiered recommendations for coaches/admins, with uncertainty, ethics, and full reproducibility documented.
 
-Recommended Actions:
+**Recommended Actions:**
 
-LOW RISK: 
+**LOW RISK:**
 
 - Increase touches for Emma Ward (46 A, 76 total contributions) and monitor Olivia Adamson's development (5.33 contributions/game in limited play)
 
 - Leverage Meghan Rode's defensive versatility (76 combined GB+CT+DC) for strategic matchups
   
-MEDIUM RISK: 
+**MEDIUM RISK:**
 
 - Investigate shooting efficiency patterns for Mackenzie Rich and Bri Peters (both 100% rates, sample size unknown)
   
 - Test Emma Muchnick (34 G leader) in expanded offensive schemes given strong shots-to-goals correlation (r≈0.99)
   
-HIGH RISK: 
+**HIGH RISK:**
 
 - Any roster or scholarship decisions require multi-metric evaluation beyond single-stat performance
   
 Overall Uncertainty: Moderate confidence in findings due to 32-player dataset with some small-sample individual metrics and perfect percentages requiring attempt-count verification.
 
-1) Stakeholder & Decision Context
+**1) Stakeholder & Decision Context**
    
 Audience: Head Coach, Position Coaches, Performance Staff, Athletic Director.
 Decision to make: What near-term tactical adjustments and medium-term experiments will most improve scoring efficiency and possession without creating unintended ethical or operational risks.
 What’s at stake: Medium risk. Recommendations can affect playing time, competitive outcomes, and athlete morale; therefore, actions must be transparent, fair, and reversible.
 
-3) Data Provenance & Scope (What we’re basing decisions on)
+**2) Data Provenance & Scope (What we’re basing decisions on)**
    
 - Dataset: 32 players; season counts and rates for Goals (G), Assists (A), Shots (SH), Shooting % (SH%), Shots-on-Goal % (SOG%), Ground Balls (GB), Caused Turnovers (CT), Draw Controls (DC), Fouls, and GP–GS (Games Played–Games Started).
 - Narrative base: The Task 6 one-minute “reporter stand-up” video summarized the same dataset; language was cross-checked against the “2025 Syracuse University Lacrosse Statistics” document.
@@ -56,12 +56,13 @@ Must include:
 • Plain language; no new numbers; label the block: “LLM-generated analysis.”
 End with one sentence on how upcoming trials/audits will increase confidence.
 
-- LLM Output Processing:
+**- LLM Output Processing:**
+
 Model Used: ChatGPT (GPT-4o)
 Generation timestamp: September 28, 2025, 13:45 UTC
 Raw output archived in Appendix A
 
-c. Uncertainty & Confidence: 
+**c. Uncertainty & Confidence:**
 
 - Aggregate relationship (shots→goals): Very high confidence; removing a few top scorers does not materially change the correlation’s strength.
 - Player-level leaders (Muchnick goals; Ward assists/total): Moderate-to-high confidence; rankings remain consistent when normalized by games played.
@@ -70,26 +71,26 @@ c. Uncertainty & Confidence:
   
 ## 4. Findings & Analysis
 
-a. Sanity Checks & Domain Validation: 
+**a. Sanity Checks & Domain Validation:**
 
 - Missingness/outliers: Non-player summary lines were excluded; extreme percentages were inspected to ensure they stem from legitimate small-denominator scenarios rather than data entry errors.
 - Leakage: No outcome leakage (e.g., using post-hoc information to predict outcomes) was found.
 - Domain sense-check: Coaches should expect a strong link between volume and output—our data confirms this—but efficiency and possession wins separate good from great.
   
-b. Bias & Fairness Considerations:
+**b. Bias & Fairness Considerations:**
 
 - Starter vs. non-starter bias: Where possible, we compared normalized (per-game) performance to avoid automatically favoring starters due to minutes.
 - Volume bias: High-volume shooters look great in totals; we pair volume with efficiency (e.g., SH%, SOG%, contributions per game) to avoid rewarding low-quality volume.
 - Transparency to athletes: If trials or role tweaks are run, communicate criteria up front (what will be measured; thresholds for success) to protect trust and team culture.
 - No single-metric decisions: Personnel or scholarship decisions should not hinge on a solitary stat or LLM narrative.
   
-c. Robustness & Sensitivity:
+**c. Robustness & Sensitivity:**
 
 - Remove top scorers: The shots→goals relationship remains very strong; Ward’s creation leadership and Benoit/Rode possession/defense edges persist.
 - Exclude very small GP (e.g., <5): Adamson’s per-game superiority attenuates, which is expected; hence we propose a trial rather than immediate role changes.
 - Normalize by GP: Rankings for Ward (creation), Muchnick (finishing), Benoit/Rode (possession/defense) remain stable.
   
-d. Uncertainty & Limitations:
+**d. Uncertainty & Limitations:**
 
 LLM-generated analysis.
 
