@@ -200,7 +200,7 @@ Raw Output:
 
 ### Appendix B: Human Edits Documentation
 
-## What I changed (brief, human edits)
+### What I changed (brief, human edits)
 
 Tone/causality: Swapped “predicts” → “is strongly associated with” to avoid implying causation.
 
