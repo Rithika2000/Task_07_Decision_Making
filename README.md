@@ -202,12 +202,12 @@ Raw Output:
 
 ### What I changed (brief, human edits)
 
-Tone/causality: Swapped “predicts” → “is strongly associated with” to avoid implying causation.
+- Tone/causality: Swapped “predicts” → “is strongly associated with” to avoid implying causation.
 
-Clarity: Tightened phrasing; removed repeated “excellent/strongly” modifiers.
+- Clarity: Tightened phrasing; removed repeated “excellent/strongly” modifiers.
 
-Consistency: Used a single confidence taxonomy (high / moderate–high / provisional).
+- Consistency: Used a single confidence taxonomy (high / moderate–high / provisional).
 
-Readability: Shortened bullets, moved caveats up front, and standardized metric parentheticals.
+- Readability: Shortened bullets, moved caveats up front, and standardized metric parentheticals.
 
-Action link: Made the last bullet explicitly connect to the validation plan.
+- Action link: Made the last bullet explicitly connect to the validation plan.
