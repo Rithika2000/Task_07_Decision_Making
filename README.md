@@ -184,19 +184,19 @@ End with one sentence on how upcoming trials/audits will increase confidence.
 
 Raw Output:
 
-'''LLM-generated analysis.
+  LLM-generated analysis.
 
-Overall certainty: We have high confidence that shot volume strongly predicts goals (r ≈ 0.99); this pattern remains stable under simple sensitivity checks and supports strategies that increase quality shot creation.
+  Overall certainty: We have high confidence that shot volume strongly predicts goals (r ≈ 0.99); this pattern remains stable under simple sensitivity checks and supports strategies     that increase quality shot creation.
 
-Leaders (moderate–high confidence): Evidence consistently supports Emma Ward as primary creator (46 A; 76 G+A) and Emma Muchnick as top finisher (34 G). Kaci Benoit (34 GB) and Meghan Rode (GB+CT+DC = 76) reliably anchor possession/disruption.
+  Leaders (moderate–high confidence): Evidence consistently supports Emma Ward as primary creator (46 A; 76 G+A) and Emma Muchnick as top finisher (34 G). Kaci Benoit (34 GB) and     Meghan Rode (GB+CT+DC = 76) reliably anchor possession/disruption.
 
-Small-sample caution (provisional): Olivia Adamson’s per-game impact (10 G, 6 A across 3 GP) is promising but based on limited exposure; treat as a hypothesis to validate, not a guaranteed effect.
+  Small-sample caution (provisional): Olivia Adamson’s per-game impact (10 G, 6 A across 3 GP) is promising but based on limited exposure; treat as a hypothesis to validate, not a       guaranteed effect.
 
-Perfect-rate caveats: Mackenzie Rich (100% SH%) and Bri Peters (100% SOG%) show excellent efficiency, but likely on few attempts; interpret carefully until sample sizes grow.
+  Perfect-rate caveats: Mackenzie Rich (100% SH%) and Bri Peters (100% SOG%) show excellent efficiency, but likely on few attempts; interpret carefully until sample sizes grow.
 
-Data gaps: Missing minutes played, opponent strength, and shot-location context restrict deeper causal claims and role optimization.
+  Data gaps: Missing minutes played, opponent strength, and shot-location context restrict deeper causal claims and role optimization.
 
-Path to higher confidence: Pre-planned controlled minutes trials and shot-selection/keeper-adjusted audits will provide additional evidence to confirm or refine these conclusions.'''
+  Path to higher confidence: Pre-planned controlled minutes trials and shot-selection/keeper-adjusted audits will provide additional evidence to confirm or refine these conclusions.
 
 ### Appendix B: Human Edits Documentation
 
